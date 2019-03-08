@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <!--EditText Labels-->
+    <string name="label_et_input_sum">Введите сумму:</string>
+    <string name="label_et_result">Результат:</string>
+    <!--Spinner labels-->
+    <string name="label_sp_choose_currency">Выберите валюту:</string>
+    <string name="label_sp_convert_to">Конвертировать в:</string>
+    <!--Spinner items-->
+    <string name="spinner_item_uah">UAH - гривна</string>
+    <string name="spinner_item_usd">USD - доллар США</string>
+    <string name="spinner_item_eur">EUR - евро</string>
+    <!--RadioButton labels-->
+    <string name="label_radio_nbu">НБУ</string>
+    <string name="label_radio_buy">Покупка</string>
+    <string name="label_radio_sell">Продажа</string>
+    <!--Button-->
+    <string name="btn_calculate">Рассчитать</string>
+    <!--Message-->
+    <string name="wrong_input">Введено неверное значение</string>
+    <string name="wrong_currency">Выберете месную валюту</string>
+
+</resources>

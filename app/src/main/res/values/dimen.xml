@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topMargin">16dp</dimen>
+    <dimen name="globalMargin">16dp</dimen>
+
+    <dimen name="h1">24sp</dimen>
+    <dimen name="h2">16sp</dimen>
+    <dimen name="p">12sp</dimen>
+    <dimen name="et">20sp</dimen>
+</resources>
